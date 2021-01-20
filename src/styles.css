@@ -1,0 +1,83 @@
+.header {
+    width: 1140px;
+    justify-content: center;
+    display: flex;
+}
+.logo1 {
+    margin-right: 277px;
+}
+.nav {
+    display: flex;
+}
+.nav-li {
+    color: #003399;
+    list-style-type: none;
+    margin-right: 30px;
+    font:24px 'Gilroy', sans-serif;
+}
+.main {
+    width: 1140px;
+}
+.number {
+    text-align: center;
+    color: #F27C0F;
+    margin-top: 56px;
+    font:288px 'Gilroy', sans-serif;
+}
+.buttons {
+    margin-top: 45px;
+    justify-content: center;
+    display: flex;
+}
+.butt-1 {
+    text-align: center;
+    color: #ffffff;
+    background-color: #003399;
+    width: 200px;
+    height: 58px;
+    margin-right: 55px;
+    border-radius: 3px;
+    font: 24px 'Gilroy', sans-serif;
+    line-height: 58px;
+}
+.butt-2 {
+    text-align: center;
+    color: #ffffff;
+    background-color: #F27C0F;
+    width: 200px;
+    height: 58px;
+    border-radius: 3px;
+    font: 24px 'Gilroy', sans-serif;
+    line-height: 58px;
+}
+.butt-3 {
+    text-align: center;
+    color: #000000;
+    background-color: #E5E5E5;
+    width: 200px;
+    height: 58px;
+    margin-left: 55px;
+    border-radius: 3px;
+    font: 24px 'Gilroy', sans-serif;
+    line-height: 58px;
+}
+.footer {
+    width: 1140px;
+    margin-top: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-menu {
+    display: flex;
+}
+.footer-nav {
+    color: #808080;
+    margin-left: 30px;
+    font: 16px 'Gilroy', sans-serif;
+}
+.footer-copy {
+    margin-left: 150px;
+    color: #808080;
+    font: 16px 'Gilroy', sans-serif;
+}
