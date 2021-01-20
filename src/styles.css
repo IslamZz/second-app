@@ -3,6 +3,10 @@
     justify-content: center;
     display: flex;
 }
+.container {
+    margin: auto;
+    justify-content: center;
+}
 .logo1 {
     margin-right: 277px;
 }
@@ -63,10 +67,12 @@
 }
 .footer {
     width: 1140px;
-    margin-top: 250px;
+    /*margin-top: 250px;*/
     display: flex;
     justify-content: center;
     align-items: center;
+    position: fixed;
+    top: 95%;
 }
 .footer-menu {
     display: flex;
