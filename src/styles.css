@@ -1,14 +1,15 @@
 .header {
-    width: 1140px;
-    justify-content: center;
+    max-width: 1140px;
+    justify-content: space-evenly;
     display: flex;
 }
 .container {
+    width: 1140px;
     margin: auto;
     justify-content: center;
 }
 .logo1 {
-    margin-right: 277px;
+    /*margin-right: 277px;*/
 }
 .nav {
     display: flex;
